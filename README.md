@@ -1,6 +1,9 @@
 # TODO-Tracker
 This was written for my personal use case, but feel free to use or extend it.
 
+![view.png](view.png)
+![choose.png](choose.png)
+
 # Use Case
 The goal of this script is to remain as simple and barebones as possible to eliminate any learning curve compared to, e.g., Evernote, to allow easy extension of the script, as well as enhance the specific use case of planning long-term projects.
 
